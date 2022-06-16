@@ -1,5 +1,5 @@
 <template>
-  <Tutorial />
+  <SpeadChecker/>
 </template>
 
 <script>
